@@ -9,11 +9,11 @@ Week Report 1 Submission
 
 ## Slack Screenshot
 take a screenshot of slack and place it here
-![Slack screenshot](<../../../Pictures/Screenshots/Screenshot 2025-09-14 031139.png>)
+![Slack screenshot]  ![alt text](<Screenshot 2025-09-14 031139.png>)
 
 ## Github Screenshot
 take a screenshot of your github account and place it here
-![GitHub Screenshot](<../../../Pictures/Screenshots/Screenshot 2025-09-14 031821.png>)
+![GitHub Screenshot] ![alt text](image.png)
 
 ## Acknowledgements
 * By submitting this assignment I [Ian suero] acknowledge that I have read the syllabus or home page of the course
